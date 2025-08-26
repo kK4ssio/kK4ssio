@@ -1,4 +1,4 @@
-# Kassio Dias Monteiro | Futuro Desenvolvedor Full Stack
+# Kassio Dias Monteiro | Desenvolvedor
 Apaixonado por tecnologia e sempre em busca de novos aprendizados!
 
 ## ❗ Sobre mim
