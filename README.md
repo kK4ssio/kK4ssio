@@ -55,7 +55,7 @@ Ferramentas de Design que uso regularmente.
 - **Curso Técnico em Informática**  
   *ULBRA - São Lucas*  
   *Em andamento (2023 - 2025)*  
-  Atualmente estou cursando o Técnico em Informática, onde venho aprofundando meus conhecimentos na área de Tecnologia.
+  
 
 ## 📬 Contato
 
