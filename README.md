@@ -1,4 +1,4 @@
-# Kassio Dias Monteiro | Desenvolvedor
+# Kassio Dias Monteiro 
 Apaixonado por tecnologia e sempre em busca de novos aprendizados!
 
 ## ❗ Sobre mim
@@ -6,12 +6,7 @@ Apaixonado por tecnologia e sempre em busca de novos aprendizados!
 
 ### 👤 Quem sou Eu
 
-Olá! Sou Kassio Dias Monteiro, brasileiro, 18 anos, apaixonado por tecnologia e desenvolvimento de software. Desde cedo me encantei com o poder de transformar ideias em soluções criativas e hoje sigo determinado a me tornar um desenvolvedor Full Stack.
-
-Meu principal foco é o desenvolvimento Web, explorando tanto o front-end quanto o back-end, sempre buscando criar experiências modernas, funcionais e eficientes.
-Adoro aprender novas tecnologias, participar de projetos desafiadores e compartilhar conhecimento.
-
-Além da programação, também me interesso por design e usabilidade, o que me ajuda a criar interfaces mais intuitivas e agradáveis.
+Olá! Sou Kassio Dias Monteiro, brasileiro, 18 anos, apaixonado por tecnologia e desenvolvimento de software.
 
 ## 📚 Conhecimento
 
@@ -67,5 +62,5 @@ Ferramentas de Design que uso regularmente.
 Fique à vontade para entrar em contato! Seja para colaborar em projetos, compartilhar ideias ou simplesmente trocar experiências. 🚀
 
 - 📧 **Email:** diasmonteirokassio@gmail.com  
-- 📱 **Telefone / WhatsApp:** (51) 99746-2179
+- 📱 **Telefone / WhatsApp:** (51) 9763-5977
 
