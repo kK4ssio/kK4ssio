@@ -6,7 +6,7 @@ Apaixonado por tecnologia e sempre em busca de novos aprendizados!
 
 ### 👤 Quem sou Eu
 
-Olá! Sou Kassio Dias Monteiro, brasileiro, 18 anos, apaixonado por tecnologia e desenvolvimento de software.
+Olá! Sou Kassio Dias Monteiro, Brasileiro, 18 anos, Gaúcho,  apaixonado por tecnologia e desenvolvimento de software.
 
 ## 📚 Conhecimento
 
@@ -62,5 +62,5 @@ Ferramentas de Design que uso regularmente.
 Fique à vontade para entrar em contato! Seja para colaborar em projetos, compartilhar ideias ou simplesmente trocar experiências. 🚀
 
 - 📧 **Email:** diasmonteirokassio@gmail.com  
-- 📱 **Telefone / WhatsApp:** (51) 9763-5977
+- 📱 **Telefone / WhatsApp:** (51) 99763-5977
 
